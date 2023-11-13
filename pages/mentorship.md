@@ -67,7 +67,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
             <br/>
             <div id="hide_email">
             Email: grad-student2@cornell.edu<br/>
-            Meeting link: <a href="https://twitter.com/Cornell_DICE">calendar</a><br/>
+            Meeting link: <a href="https://twitter.com/Cornell_DICE">test</a><br/>
             </div>
         </div> 
     </div>
