@@ -39,8 +39,8 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <div class="row-fluid">
         <div class="span3">
-        <a href="../assets/mentor_test.jpg">
-            <img src="../assets/mentor_test.jpg"
+        <a href="../assets/mentors/mentor_test.jpg">
+            <img src="../assets/mentors/mentor_test.jpg"
                   title="test photo" alt="test photo"/></a>
         </div>
         <div class="span6">
@@ -57,8 +57,8 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <div class="row-fluid">
         <div class="span3">
-        <a href="../assets/mentor_test.jpg">
-            <img src="../assets/mentor_test.jpg"
+        <a href="../assets/mentors/mentor_test.jpg">
+            <img src="../assets/mentors/mentor_test.jpg"
                   title="test photo" alt="test photo"/></a>
         </div>
         <div class="span6">
