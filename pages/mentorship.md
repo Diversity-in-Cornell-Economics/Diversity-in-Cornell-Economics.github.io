@@ -44,12 +44,12 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
                   title="test photo" alt="test photo"/></a>
         </div>
         <div class="span6">
-            <b><font size="+2">Diversity in Cornell Economics</font></b><br/>
+            <b><font size="+2">THIS IS UNDER CONSTRUCTION RIGHT NOW!</font></b><br/>
             <br/>
             <br/>
             <div id="hide_email">
-            Email: Cornell.DICE@gmail.com<br/>
-            Twitter: <a href="https://twitter.com/Cornell_DICE">@Cornell_DICE</a><br/>
+            Email: grad student's email<br/>
+            Twitter: <a href="https://twitter.com/Cornell_DICE">this will be calendly link</a><br/>
             </div>
         </div> 
     </div>
