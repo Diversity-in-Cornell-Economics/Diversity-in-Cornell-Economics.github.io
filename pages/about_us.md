@@ -34,7 +34,7 @@ We organize our work across several committees:
 <br/>
 <a href="https://economics.cornell.edu/lexin-cai">Lexin Cai</a> - Chair of Department Accountability
 <br/>
-<a href="http://barrett.dyson.cornell.edu/research/group/molly-doruska.html">Molly Doruska</a> - President, Chair of GSGEE 
+<a href="https://www.mollydoruska.com">Molly Doruska</a> - President, Chair of GSGEE 
 <br/>
 <a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a> - Chair of Communications, Dyson Diversity Council representative
 <br/>
