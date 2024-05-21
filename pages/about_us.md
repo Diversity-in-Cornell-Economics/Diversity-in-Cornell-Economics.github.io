@@ -36,7 +36,7 @@ We organize our work across several committees:
 <br/>
 <a href="https://www.mollydoruska.com">Molly Doruska</a> - President, Chair of GSGEE 
 <br/>
-<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a> - Chair of Communications, Dyson Diversity Council representative
+<a href="https://lucesprabens.github.io">Luc Esprabens</a> - Chair of Communications, Dyson Diversity Council representative
 <br/>
 <a href="https://publicpolicy.cornell.edu/people/anton-moore/">Anton Moore</a> - Vice President
 <br/>
