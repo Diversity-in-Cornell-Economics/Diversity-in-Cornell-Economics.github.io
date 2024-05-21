@@ -43,6 +43,7 @@ We organize our work across several committees:
 <a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Anthony Ponce</a> - Treasurer
 <br/>
 <a href="https://economics.cornell.edu/brenda-quesada-prallon">Brenda Prallon</a> - Economics Diversity and Inclusion Committee Grad Student Representative
+<br/>
 <a href="https://publicpolicy.cornell.edu/people/chloe-smith/">Chloe Smith</a> - Economics Diversity and Inclusion Committee Grad Student Representative
 
 <br/>
