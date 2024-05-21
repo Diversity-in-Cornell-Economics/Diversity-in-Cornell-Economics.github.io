@@ -19,7 +19,7 @@ There are three types of DICE members: general members, committee members, and e
 <br/>
 We organize our work across several committees:
 <ul>
-<li> Graduate Students for Gender Equity in Economics </li>
+<li> Graduate Students for Gender Equity in Economics (GSGEE) </li>
 <li> Department Accountability </li>
 <li> Undergraduate outreach and mentoring </li>
 <li> Communications </li>
