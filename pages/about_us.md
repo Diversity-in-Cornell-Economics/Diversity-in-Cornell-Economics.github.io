@@ -27,21 +27,23 @@ We organize our work across several committees:
 <br/>
    
 <div class="page-header">
-  <h2>Executive Board 2023-24</h2>
+  <h2>Executive Board 2024-25</h2>
 </div>
-<a href="https://publicpolicy.cornell.edu/people/daphne-blakey/">Daphne Blakey</a>  - Chair of Undergraduate Outreach and Mentoring
+
+<a href="https://publicpolicy.cornell.edu/people/jaqueline-blair/">Jacqueline Blair</a> - Chair of Undergraduate Mentoring
 <br/>
-<a href="https://economics.cornell.edu/lexin-cai">Lexin Cai</a> - Treasurer, Economics Diversity and Inclusion Committee Grad Student Representative
+<a href="https://economics.cornell.edu/lexin-cai">Lexin Cai</a> - Chair of Department Accountability
 <br/>
-<a href="http://barrett.dyson.cornell.edu/research/group/molly-doruska.html">Molly Doruska</a> - GSGEE Chair 
+<a href="http://barrett.dyson.cornell.edu/research/group/molly-doruska.html">Molly Doruska</a> - President, Chair of GSGEE 
 <br/>
-<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a> - Co-Chair of Communications, Dyson Diversity Council representative
+<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a> - Chair of Communications, Dyson Diversity Council representative
 <br/>
-<a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a> - President 
+<a href="https://publicpolicy.cornell.edu/people/anton-moore/">Anton Moore</a> - Vice President
 <br/>
-<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Anthony Ponce</a> - Vice President, Department Accountability co-chair, Communications co-chair 
+<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Anthony Ponce</a> - Treasurer
 <br/>
-<a href="https://publicpolicy.cornell.edu/people/chloe-smith/">Chloe Smith</a> - Department Accountability co-chair, Economics Diversity and Inclusion Committee Grad Student Representative
+<a href="https://economics.cornell.edu/brenda-quesada-prallon">Brenda Prallon</a> - Economics Diversity and Inclusion Committee Grad Student Representative
+<a href="https://publicpolicy.cornell.edu/people/chloe-smith/">Chloe Smith</a> - Economics Diversity and Inclusion Committee Grad Student Representative
 
 <br/>
 
@@ -56,6 +58,8 @@ We organize our work across several committees:
 <h2>Former Executive Board Members</h2>
 </div>
 
+<a href="https://publicpolicy.cornell.edu/people/daphne-blakey/">Daphne Blakey</a>
+<br/>
 <a href="https://annemburton.com/">Anne Burton</a>
 <br/>
 <a href="https://www.econanne.com/">Anne Byrne</a>
@@ -69,6 +73,8 @@ We organize our work across several committees:
 <a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Michael Meneses</a>
 <br/>
 <a href="https://gracenphillips.com/">Grace Phillips</a>
+<br/>
+<a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a> 
 <br/>
 <a href="https://danajsmith.com/">Dana Smith</a>
 <br/>
