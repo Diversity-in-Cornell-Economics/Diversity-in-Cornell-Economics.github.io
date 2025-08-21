@@ -85,6 +85,7 @@ If you're an undergraduate or graduate student at Cornell and you (1) are intere
       <ul class="nav">
           <li><a href="https://github.com/Diversity-in-Cornell-Economics">GitHub</a></li>
           <li><a href="https://twitter.com/Cornell_DICE">Twitter (@Cornell_DICE)</a></li>
+          <li><a href="https://hr.cornell.edu/about/workplace-rights/equal-education-and-employment">Equal Education and Employment Opportunity Statement</a></li>
       </ul>
   </div>
 </div>
