@@ -32,15 +32,15 @@ We organize our work across several committees:
 
 <a href="https://publicpolicy.cornell.edu/people/anton-moore/">Anton Moore</a> - President
 <br/>
-<a href="https://publicpolicy.cornell.edu/people/jaqueline-blair/">Jacqueline Blair</a> - Vice President \& Undergraduate Mentoring Chair
+<a href="https://publicpolicy.cornell.edu/people/jaqueline-blair/">Jacqueline Blair</a> - Vice President, Undergraduate Mentoring Chair
 <br/>
 <a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Anthony Ponce</a> - Treasurer
-<!--<br/>-->
+<br/>
 <!--<a href="https://economics.cornell.edu/lexin-cai">Lexin Cai</a> - Chair of Department Accountability
 <br/>
 <a href="https://www.mollydoruska.com">Molly Doruska</a> - President, Chair of GSGEE 
 <br/>-->
-<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a> - Chair of Communications <!--, Dyson Diversity Council representative-->
+<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a> - Communications Chair <!--, Dyson Diversity Council representative-->
 <br/>
 <a href="https://economics.cornell.edu/brenda-quesada-prallon">Brenda Prallon</a> - EDIC Representative
 <br/>
