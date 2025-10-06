@@ -32,7 +32,7 @@ We organize our work across several committees:
 
 <a href="https://publicpolicy.cornell.edu/people/anton-moore/">Anton Moore</a> - President
 <br/>
-<a href="https://publicpolicy.cornell.edu/people/jaqueline-blair/">Jacqueline Blair</a> - Vice President
+<a href="https://publicpolicy.cornell.edu/people/jaqueline-blair/">Jacqueline Blair</a> - Vice President \& Undergraduate Mentoring Chair
 <br/>
 <a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Anthony Ponce</a> - Treasurer
 <!--<br/>-->
@@ -40,8 +40,11 @@ We organize our work across several committees:
 <br/>
 <a href="https://www.mollydoruska.com">Molly Doruska</a> - President, Chair of GSGEE 
 <br/>-->
-<!--<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a> - Chair of Communications, Dyson Diversity Council representative
-<br/>-->
+<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a> - Chair of Communications <!--, Dyson Diversity Council representative-->
+<br/>
+<a href="https://economics.cornell.edu/brenda-quesada-prallon">Brenda Prallon</a> - EDIC Representative
+<br/>
+<a href="https://publicpolicy.cornell.edu/people/gabrielle-sorresso/">Gabrielle Soresso</a> - EDIC Representative
 
 
 <!--<a href="https://economics.cornell.edu/brenda-quesada-prallon">Brenda Prallon</a> - Economics Diversity and Inclusion Committee Grad Student Representative
@@ -77,16 +80,16 @@ We organize our work across several committees:
 <br/>
 <a href="https://www.mollydoruska.com">Molly Doruska</a>
 <br/>
-<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a>
-<br/>
+<!--<a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Luc Esprabens</a>
+<br/> -->
 <a href="https://dyson.cornell.edu/programs/graduate/graduate-student-directory/">Michael Meneses</a>
 <br/>
 <a href="https://gracenphillips.com/">Grace Phillips</a>
 <br/>
 <a href="https://economics.cornell.edu/kalie-pierce-0">Kalie Pierce</a> 
 <br/>
-<a href="https://economics.cornell.edu/brenda-quesada-prallon">Brenda Prallon</a>
-<br/>
+<!--<a href="https://economics.cornell.edu/brenda-quesada-prallon">Brenda Prallon</a>
+<br/>-->
 <a href="https://publicpolicy.cornell.edu/people/chloe-smith/">Chloe Smith</a>
 <br/>
 <a href="https://danajsmith.com/">Dana Smith</a>
