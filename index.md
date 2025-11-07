@@ -33,7 +33,7 @@ keywords: diversity, equity, inclusion, underrepresented, URM, women, BIPOC, LGB
             <br/>
             <br/>
             <div id="hide_email">
-            Email: Cornell.DICE@gmail.com<br/>
+            President's Email (Anton): atm73@cornell.edu<br/>
             Twitter: <a href="https://twitter.com/Cornell_DICE">@Cornell_DICE</a><br/>
             </div>
         </div> 
