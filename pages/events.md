@@ -227,7 +227,7 @@ To remove the underline from the title, remove the <u> tags (<u> and </u>)
 
 <span id="lastModified"></span>
 
-
+</html>
 
 <!--
 </body>
