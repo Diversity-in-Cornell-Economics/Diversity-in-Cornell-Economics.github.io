@@ -108,7 +108,7 @@ We organize our work across several committees:
 
 
     
-<strong>If you would like to join us, feel free to reach out at Cornell.DICE@gmail.com.</strong>
+<strong>If you would like to join us, feel free to reach out at atm73@cornell.edu.</strong>
 
 <br/>
 <br/>

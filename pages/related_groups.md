@@ -339,7 +339,7 @@ Women in Economics at Kansas State University:
     <strong>If you have any suggestions for related groups to include, feel free to email us at
     <br/>
     <br/>
-    Cornell.DICE@gmail.com </strong>
+    atm73@cornell.edu </strong>
 
   </div>
 </div>
